@@ -1,10 +1,8 @@
-# LearnMate: AI-powered Study Assistant
+#  AI-powered Study Assistant
 
 LearnMate is an AI-powered study assistant designed to enhance the learning experience for students. It leverages the power of AI to provide personalized study recommendations, answer questions, and create a more engaging and interactive learning environment.
 
-## Demo
 
-[![LearnMate Demo](https://img.youtube.com/vi/qNFZzqNMBZI/0.jpg)](https://www.youtube.com/watch?v=qNFZzqNMBZI)
 
 ## Features
 
